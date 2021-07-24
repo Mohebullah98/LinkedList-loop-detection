@@ -1,7 +1,7 @@
 class LinkedListNode{
-  public int data;
+  public char data;
   public LinkedListNode next;
-  public LinkedListNode(int data){
+  public LinkedListNode(char data){
     this.data=data;
   }
 }
